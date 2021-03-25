@@ -19,7 +19,7 @@
     <nav class="navbar py-0" style="background-color: ;">
 
         <div class="max-width">
-            <div class="logo"><img src="images/logo.png" width="70" height="70" /></div>
+            <div class="logo"><img src="images/logo.png" width="80" height="80" /></div>
             <ul class="menu">
                 <li ><a href="index.php" class="menu-btn">Homeeeee</a></li>
                 <li><a href="about.php" class="menu-btn">About</a></li>
