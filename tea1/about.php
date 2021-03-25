@@ -29,7 +29,7 @@
                             <div class="col-lg-9 col-md-6">
                                 <h2 class="title text-danger title-font font-medium">
                                     <i>
-                                        ABOUT US
+                                        ABOUT USsss
                                         <div class="progress" style="height: 2px; width: 170px;">
                                             <div class="progress-bar bg-danger" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
