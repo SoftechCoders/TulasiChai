@@ -21,7 +21,7 @@
         <div class="max-width">
             <div class="logo"><img src="images/logo.png" width="70" height="70" /></div>
             <ul class="menu">
-                <li ><a href="index.php" class="menu-btn">Home</a></li>
+                <li ><a href="index.php" class="menu-btn">Homeeeee</a></li>
                 <li><a href="about.php" class="menu-btn">About</a></li>
                 <li><a href="products.php" class="menu-btn">Products</a></li>
                 <li><a href="branch.php" class="menu-btn">Branch</a></li>
