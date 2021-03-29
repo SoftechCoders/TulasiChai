@@ -409,6 +409,9 @@ section .title::after{
     color: crimson;
     background: none;
 }
+.about .title::after{
+    content: "get in touch";
+}
 
 .skills .title::after{
     
